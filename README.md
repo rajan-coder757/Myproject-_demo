@@ -1,2 +1,2 @@
-# Myproject-_demo
+# Myproject_demo
 This is my second git repository.
